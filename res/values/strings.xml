@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">multiactivitytest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_already_reg">AlreadyReg</string>
+    <string name="device_allreg">device already registered</string>
+    <string name="title_activity_not_reg">NotReg</string>
+    <string name="device_notreg">device not registered</string>
+    <string name="title_activity_sound">SoundActivity</string>
+    <string name="Loading">Loading</string>
+    <string name="soundText">Remember to login to the website and change the state back to fine otherwise this will keep playing every X minutes!</string>
+    <string name="okButton">Ok</string>
+
+</resources>
